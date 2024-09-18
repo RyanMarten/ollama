@@ -1,0 +1,6 @@
+
+Artificial Intelligence (AI) is a broad field of computer science focused on creating intelligent machines that can perform tasks that typically require human intelligence. These tasks include visual perception, speech recognition, decision-making, and language translation. AI systems are designed to analyze their environment and take actions that maximize their chance of achieving specific goals.
+
+Machine Learning (ML) is a subset of AI that focuses on the development of algorithms and statistical models that enable computer systems to improve their performance on a specific task through experience. Instead of explicitly programming rules, ML algorithms learn patterns from data.
+
+Deep Learning is a subfield of machine learning that uses artificial neural networks with multiple layers (hence "deep") to progressively extract higher-level features from raw input. For example, in image processing, lower layers might identify edges, while higher layers might identify concepts relevant to a human such as digits or letters or faces.
